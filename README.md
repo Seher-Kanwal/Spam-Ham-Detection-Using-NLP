@@ -6,6 +6,8 @@ This includes the different approaches of NLP to solve the spam ham problem
 ## Libraries Used:
 - __nltk__
 - __sklearn__
+- __pandas__
+- __re__
 
 ## Steps for test and trainign model with stem Data:
 - First we perform stemming along with eliminAting the stop words
